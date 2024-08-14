@@ -14,8 +14,8 @@ class Config(object):
     OWNER_ID = "YOUR ID HERE"  # If you dont know, run the bot and do /id in your private chat with it
     OWNER_USERNAME = "YOUR USERNAME HERE"
     # Some API is required for more features
-    API_OPENWEATHER = ""
-    API_ACCUWEATHER = ""
+    API_OPENWEATHER = "4721aca8db8045bd4398a2ff05cac030"
+    API_ACCUWEATHER = "JfR609akVyNbKwvcpCbAdFO1JQfyOGAn"
     MAPS_API = ""
 
     # RECOMMENDED
